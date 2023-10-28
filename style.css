@@ -1,0 +1,21 @@
+
+.table,th {
+    table-layout:fixed;
+    width: 50%;
+    border-collapse: collapse;
+    border: 3px solid black;
+  }
+
+.red{
+    background-color: rgb(241, 143, 143);
+    color: white;
+}
+
+.yellow{
+    background-color: rgb(203, 203, 119);
+    color: white;
+}
+
+.text-dark{
+    color: black;
+}
